@@ -1,3 +1,4 @@
+<img align="right" src="https://user-images.githubusercontent.com/88919177/151149484-b7e2afe9-7320-4f0f-b05c-4c5c0ac22e90.gif" alt="@dogukankarabiyik" height="300" width="450" />
 <h1 align="center">Hi 👋, I'm Doğukan</h1>
 <h3 align="center">A passionate Software Engineer who likes to learn new technologies everyday</h3>
 
