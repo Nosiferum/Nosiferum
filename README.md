@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [https://nosiferum.github.io/](https://nosiferum.github.io/)
+- 👨‍💻 You can check my portfolio at [https://nosiferum.github.io/](https://nosiferum.github.io/)
 
 - 💬 Ask me about **Game Development and Back-End**
 
