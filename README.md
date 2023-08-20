@@ -2,8 +2,6 @@
 <h1 align="center">Welcome to my profile 👋</h1>
 <h3 align="center">I am a passionate Software Engineer who likes to learn new technologies everyday</h3>
 
-- 🌱 I’m currently learning **Typescript**
-
 - 👨‍💻 You can check my portfolio at [https://nosiferum.github.io/](https://nosiferum.github.io/)
 
 - 💬 Ask me anything about **Game Development and Back-End**
