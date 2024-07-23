@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my profile 👋</h1>
-<img align="right" src="https://user-images.githubusercontent.com/88919177/151149484-b7e2afe9-7320-4f0f-b05c-4c5c0ac22e90.gif" alt="@dogukankarabiyik" height="250" width="250" />
+<img align="right" src="https://user-images.githubusercontent.com/88919177/151149484-b7e2afe9-7320-4f0f-b05c-4c5c0ac22e90.gif" alt="@dogukankarabiyik" height="250" width="350" />
 <h3 align="center">I am a passionate Software Engineer who likes to learn new technologies everyday</h3>
 
 
