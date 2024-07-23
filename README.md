@@ -4,7 +4,7 @@
 
 - 👨‍💻 You can check my portfolio at [https://nosiferum.github.io/](https://nosiferum.github.io/)
 
-- 💬 Ask me anything about **Game Development and Back-End**
+- 💬 Ask me anything about **Back-End and Game Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
